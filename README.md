@@ -1,24 +1,7 @@
-# README
+# Micro-Reddit
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Why
+I am building this application to learn more about database models and familiarize myself with Active Record in Ruby on Rails.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## About
+ The finished product will allow users to authenticate, make posts, and contribute to threaded comments. I will also attempt to implement the upvote feature of Reddit, which will sort the comments tree by popularity.
